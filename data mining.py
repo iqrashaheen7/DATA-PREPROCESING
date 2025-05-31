@@ -1,6 +1,5 @@
 
-# Titanic Data Preprocessing Assignment
-# BSCS 5th Semester - Data Mining
+# Titanic Data Preprocessing
 
 import pandas as pd
 import numpy as np
